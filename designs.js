@@ -1,5 +1,5 @@
 // Select color input
-let artColor = $("#colorPicker");
+let artColor = $("#colorPicker").val();
 
 // Select size input
 let gridHeight = $('#inputHeight').val();
